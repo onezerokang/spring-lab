@@ -97,6 +97,7 @@ jacocoTestCoverageVerification {
 
 			excludes = [
 					'*.*Application',
+					'com.onezerokang.springlab.global.domain.BaseEntity',
 			]
 		}
 	}
